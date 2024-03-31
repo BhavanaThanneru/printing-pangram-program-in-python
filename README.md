@@ -1,1 +1,1 @@
-# printing-Trendy-number-program-in-python
+# printing-pangram-number-program-in-python
