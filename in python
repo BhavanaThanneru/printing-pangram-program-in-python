@@ -1,0 +1,12 @@
+def pangram(str):
+  alpha="abcdefghijklmnopqrstuvwxyz"
+  for i in alpha:
+    if i not in str.lower():
+      return False
+    return True
+string = input()
+if (pangram(string)==True):
+  print("yes")
+else:
+  print("no")
+    
